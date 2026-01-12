@@ -1,13 +1,13 @@
 .pageContact{
     background-color: white;
-    margin: 90px 90px 90px 90px;
+    margin: 10%;
     padding-top: 10px;
 }
 .contact{
     display: flex;
     flex-direction: row;
-    margin: 0 40px 0 40px;
-    padding: 20px 0 50px 0;
+    margin: 0 5% 0 5%;
+    padding: 50px 0 50px 0;
     gap: 2.5rem;
 }
 .formulaire{
