@@ -1,0 +1,38 @@
+.presentation{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    padding: 0 5% 0 5%;
+    font-weight: bolder;
+}
+.background{
+    height: 200px;
+    width: 100%;
+}
+.hr-rea{
+    width: 30%;
+}
+
+.allcard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 100px;   
+}
+
+#card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card-footer{
+    display: flex;
+    justify-content: center;
+}
+
+#card-img-top{
+    height: 300px;
+}

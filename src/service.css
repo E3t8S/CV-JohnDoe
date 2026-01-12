@@ -1,0 +1,15 @@
+.card-services{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 100px;    
+}
+
+#card-3{
+    padding: 50px;
+}
+
+.card:hover .card-img-top{
+    background-color: #cde1f8;
+}

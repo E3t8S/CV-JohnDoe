@@ -1,0 +1,48 @@
+.pageContact{
+    background-color: white;
+    margin: 90px 90px 90px 90px;
+    padding-top: 10px;
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    margin: 0 40px 0 40px;
+    padding: 20px 0 50px 0;
+    gap: 2.5rem;
+}
+.formulaire{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+input, textarea{
+    margin: 10px 0 10px 0;
+    width: 100%;
+}
+.btn-move{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.couleur{
+    background-image: url(/public/assets/contact/fondContact.jpg);
+    background-size: cover;
+    background-color: rgba(0, 105, 255, 0.5);
+    height: auto;
+    width: auto;
+}
+.error{
+    color: red;
+}
+
+@media screen and (max-width:767px){
+    .contact{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+}

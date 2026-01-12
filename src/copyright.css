@@ -1,0 +1,22 @@
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  padding: 10px 10px;
+  width: 100%;
+  height: 40px;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 12px;
+  cursor: pointer;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  z-index: 1000;
+}
+
+.back-to-top.visible {
+  opacity: 1;
+  pointer-events: auto;
+}

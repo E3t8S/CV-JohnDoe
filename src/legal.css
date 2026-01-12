@@ -1,0 +1,34 @@
+.presentation-legal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    font-weight:bolder;
+}
+.accordion{
+    margin: 50px;
+}
+.icone-legal{
+    width: 12px;
+    height: 12px;
+}
+.icone-legal-box-2{
+    display: flex;
+    justify-content: flex-start;
+    align-items: first baseline;
+    gap: 0.5rem;
+}
+.icone-legal-box{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    gap: 0.5rem;
+}
+.icone-legal-nav{
+    width: 17px;
+    height: 17px;
+}
+.soulignement{
+    text-decoration: none;
+}
