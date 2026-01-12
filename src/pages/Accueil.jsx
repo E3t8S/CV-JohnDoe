@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import FooterPage from "../footer";
 import NavBar from "../nav";
 
@@ -10,9 +11,9 @@ const Accueil = () => {
         <section className="accueil-1">
             <h1>Bonjour, je suis John Doe</h1>
             <h2>Développeur web full stack</h2>
-            <button type="button" class="btn btn-primary">En savoir plus</button>
+            <a href="#apropos" className="btn btn-primary">En savoir plus</a>
         </section>
-        <section className="apropos">
+        <section className="apropos" id="apropos">
             <section className="apropos-1">
                 <h3>À propos</h3>
                 <hr />
