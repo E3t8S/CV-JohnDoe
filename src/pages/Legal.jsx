@@ -61,7 +61,7 @@ const Legal = () => {
                                         <p>
                                             <img src="../assets/Legal/navigateur.png" alt="Icône web" className="icone-legal-nav" />
                                         </p>
-                                        <a href="https://www.alwaysdata.com/fr/" target="_blank" className="soulignement">www.alwaysdata.com</a>
+                                        <a href="https://vercel.com/" target="_blank" className="soulignement">www.versel.com</a>
                                     </section>
                                 </section>
                             </section>

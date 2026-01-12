@@ -39,7 +39,7 @@ function Blog(){
                                 bulk of the card’s content.</p>
                             <a href="#" className="btn btn-primary">Lire la suite</a>
                         </section>
-                        <section class="card-footer">
+                        <section className="card-footer">
                             Publié le 20 Août 2022
                         </section>
                     </section>
@@ -53,7 +53,7 @@ function Blog(){
                                 bulk of the card’s content.</p>
                             <a href="#" className="btn btn-primary">Lire la suite</a>
                         </section>
-                        <section class="card-footer">
+                        <section className="card-footer">
                             Publié le 1 Août 2022
                         </section>
                     </section>
@@ -67,7 +67,7 @@ function Blog(){
                                 bulk of the card’s content.</p>
                             <a href="#" className="btn btn-primary">Lire la suite</a>
                         </section>
-                        <section class="card-footer">
+                        <section className="card-footer">
                             Publié le 31 Juillet 2022
                         </section>
                     </section>
@@ -81,7 +81,7 @@ function Blog(){
                                 bulk of the card’s content.</p>
                             <a href="#" className="btn btn-primary">Lire la suite</a>
                         </section>
-                        <section class="card-footer">
+                        <section className="card-footer">
                             Publié le 30 Juillet 2022
                         </section>
                     </section>
@@ -95,7 +95,7 @@ function Blog(){
                                 bulk of the card’s content.</p>
                             <a href="#" className="btn btn-primary">Lire la suite</a>
                         </section>
-                        <section class="card-footer">
+                        <section className="card-footer">
                             Publié le 12 juillet 2022
                         </section>
                     </section>
