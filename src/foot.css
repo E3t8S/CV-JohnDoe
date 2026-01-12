@@ -8,7 +8,8 @@
 .footmenu-icone{
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    gap: 2rem;
+   
 }
 .footmenu-2{
     display: flex;

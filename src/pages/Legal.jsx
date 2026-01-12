@@ -53,7 +53,7 @@ const Legal = () => {
                         </h2>
                         <section id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
                             <section class="accordion-body">
-                                <h3>Always Data</h3>
+                                <h3>Versel</h3>
                                 <section className="icone-legal-box">
                                     <p>91 rue du Faubourd Saint Honoré</p>
                                     <p>75008 Paris</p>
